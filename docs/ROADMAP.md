@@ -15,9 +15,9 @@ La priorité est donnée à la qualité de la logique métier avant le développ
 - [x] Choisir l'outil de build
 - [x] Rédiger le cahier des charges
 - [x] Créer le dépôt GitHub
-- [ ] Valider le cahier des charges
-- [ ] Intégrer le cahier des charges au dépôt
-- [ ] Établir la feuille de route
+- [x] Valider le cahier des charges
+- [x] Intégrer le cahier des charges au dépôt
+- [x] Établir la feuille de route
 - [ ] Réaliser le diagramme de cas d'utilisation
 - [ ] Choisir et justifier l'architecture logicielle
 - [ ] Définir les responsabilités des composants
